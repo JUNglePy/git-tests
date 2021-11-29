@@ -3,5 +3,5 @@ print(1)
 print('second commit')
 
 
-def some_dunc(par1):
+def some_func(par1):
     pass
