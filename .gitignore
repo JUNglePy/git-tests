@@ -1,0 +1,6 @@
+config.py
+
+# ignore all files in folders with this name:
+__pycache__/
+
+/.my_hide_folder/
